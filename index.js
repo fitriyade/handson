@@ -2,5 +2,5 @@ console.log("Hello World");
 
 console.log("ciao");
 
-const name = "Fitriyana";
-console.log(name);
+const nama = "Fitriyana";
+console.log(nama);
